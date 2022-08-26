@@ -1,0 +1,176 @@
+OUTPUT FOR 4 TEAMS :
+
+
+
+[LOG]: [["Australia vs India"], ["Sri Lanka vs India"], ["Pakistan vs India"]] 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  1,  "DATE:",  "Sat Aug 27 2022" 
+[LOG]: "MATCH:",  1,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Australia vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  2,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs Pakistan"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  2,  "DATE:",  "Sun Aug 28 2022" 
+[LOG]: "MATCH:",  3,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Sri Lanka vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  4,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Pakistan vs Australia"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  3,  "DATE:",  "Sat Sep 03 2022" 
+[LOG]: "MATCH:",  5,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Pakistan vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  6,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Australia vs Sri Lanka"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "Total Matches conducted in Tournament ~",  "6 Matches" 
+
+
+
+
+OUTPUT FOR 5 TEAMS:
+
+[LOG]: [["New Zealand vs Pakistan"], ["New Zealand vs India"], ["Australia vs India"], ["Sri Lanka vs India"], ["Pakistan vs India"]] 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  1,  "DATE:",  "Sat Aug 27 2022" 
+[LOG]: "MATCH:",  1,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["New Zealand vs Pakistan"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  2,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Australia vs Sri Lanka"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  2,  "DATE:",  "Sun Aug 28 2022" 
+[LOG]: "MATCH:",  3,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["New Zealand vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  4,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs Pakistan"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  3,  "DATE:",  "Sat Sep 03 2022" 
+[LOG]: "MATCH:",  5,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Australia vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  6,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs New Zealand"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  4,  "DATE:",  "Sun Sep 04 2022" 
+[LOG]: "MATCH:",  7,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Sri Lanka vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  8,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Pakistan vs Australia"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "_______________________________________________________" 
+[LOG]: "DAY:",  5,  "DATE:",  "Sat Sep 10 2022" 
+[LOG]: "MATCH:",  9,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Pakistan vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  10,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["New Zealand vs Australia"] 
+[LOG]: "________________________________________________________" 
+[LOG]: "Total Matches conducted in Tournament ~",  "10 Matches"
+
+
+
+
+
+OUTPUT FOR 7 TEAMS :
+
+
+[LOG]: [["West Indies vs Pakistan"], ["New Zealand vs Australia"], ["New Zealand vs Pakistan"], ["South Africa vs India"], ["Sri Lanka vs Pakistan"], ["Australia vs South Africa"], ["Australia vs India"], ["Pakistan vs South Africa"], ["Pakistan vs Australia"], ["Pakistan vs India"], ["South Africa vs New Zealand"]] 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  1,  "DATE:",  "Sat Aug 27 2022" 
+[LOG]: "MATCH:",  1,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["West Indies vs Pakistan"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  2,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["South Africa vs Sri Lanka"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  2,  "DATE:",  "Sun Aug 28 2022" 
+[LOG]: "MATCH:",  3,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["New Zealand vs Australia"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  4,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["West Indies vs India"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  3,  "DATE:",  "Sat Sep 03 2022" 
+[LOG]: "MATCH:",  5,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["New Zealand vs Pakistan"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  6,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Australia vs Sri Lanka"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  4,  "DATE:",  "Sun Sep 04 2022" 
+[LOG]: "MATCH:",  7,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["South Africa vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  8,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["New Zealand vs West Indies"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  5,  "DATE:",  "Sat Sep 10 2022" 
+[LOG]: "MATCH:",  9,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Sri Lanka vs Pakistan"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  10,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["New Zealand vs India"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  6,  "DATE:",  "Sun Sep 11 2022" 
+[LOG]: "MATCH:",  11,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Australia vs South Africa"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  12,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs West Indies"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  7,  "DATE:",  "Sat Sep 17 2022" 
+[LOG]: "MATCH:",  13,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Australia vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  14,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs New Zealand"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  8,  "DATE:",  "Sun Sep 18 2022" 
+[LOG]: "MATCH:",  15,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Pakistan vs South Africa"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  16,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["Sri Lanka vs India"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  9,  "DATE:",  "Sat Sep 24 2022" 
+[LOG]: "MATCH:",  17,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Pakistan vs Australia"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  18,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["West Indies vs South Africa"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  10,  "DATE:",  "Sun Sep 25 2022" 
+[LOG]: "MATCH:",  19,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["Pakistan vs India"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  20,  " ",  "<< SESSION : Night >>" 
+[LOG]: ["West Indies vs Australia"] 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "__________________________________________________________" 
+[LOG]: "DAY:",  11,  "DATE:",  "Sat Oct 01 2022" 
+[LOG]: "MATCH:",  21,  " ",  "<< SESSION : Afternoon >>" 
+[LOG]: ["South Africa vs New Zealand"] 
+[LOG]: " --- " 
+[LOG]: "MATCH:",  22,  " ",  "<< SESSION : Night >>" 
+[LOG]: "No-Match Schedules" 
+[LOG]: "_____________________________________________________________" 
+[LOG]: "Total Matches conducted in Tournament ~",  "21 Matches"  

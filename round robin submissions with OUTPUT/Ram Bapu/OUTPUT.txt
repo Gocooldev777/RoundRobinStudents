@@ -1,0 +1,266 @@
+Output for 4 teams:
+
+World Cup Tournament Schedule
+----------------------------------------------
+Id: WC01
+Match: 1
+India vs Pakistan
+Date: Sat Aug 27 2022 Slot: slot 1
+----------------------------------------------
+Id: WC02
+Match: 2
+Australia vs England
+Date: Sat Aug 27 2022 Slot: slot 2
+----------------------------------------------
+Id: WC03
+Match: 3
+India vs England
+Date: Sun Aug 28 2022 Slot: slot 1
+----------------------------------------------
+Id: WC04
+Match: 4
+Pakistan vs Australia
+Date: Sun Aug 28 2022 Slot: slot 2
+----------------------------------------------
+Id: WC05
+Match: 5
+India vs Australia
+Date: Sat Sep 03 2022 Slot: slot 1
+----------------------------------------------
+Id: WC06
+Match: 6
+England vs Pakistan
+Date: Sat Sep 03 2022 Slot: slot 2
+----------------------------------------------
+Result of Matches
+----------------------------------------------
+Pakistan won by 1 wickets
+Australia won by 10 wickets
+India won by 1 wickets
+Pakistan won by 185 runs
+India won by 15 runs
+England won by 1 wickets
+
+Points Table
+--------------------------------------------
+India 4 points
+Australia 2 points
+England 2 points
+Pakistan 4 points
+Output for 5 teams:
+
+World Cup Tournament Schedule
+----------------------------------------------
+Id: WC01
+Match: 1
+Australia vs Bangladesh
+Date: Sat Aug 27 2022 Slot: slot 1
+----------------------------------------------
+Id: WC02
+Match: 2
+England vs Pakistan
+Date: Sat Aug 27 2022 Slot: slot 2
+----------------------------------------------
+Id: WC03
+Match: 3
+India vs Bangladesh
+Date: Sun Aug 28 2022 Slot: slot 1
+----------------------------------------------
+Id: WC04
+Match: 4
+Australia vs England
+Date: Sun Aug 28 2022 Slot: slot 2
+----------------------------------------------
+Id: WC05
+Match: 5
+India vs Pakistan
+Date: Sat Sep 03 2022 Slot: slot 1
+----------------------------------------------
+Id: WC06
+Match: 6
+Bangladesh vs England
+Date: Sat Sep 03 2022 Slot: slot 2
+----------------------------------------------
+Id: WC07
+Match: 7
+India vs England
+Date: Sun Sep 04 2022 Slot: slot 1
+----------------------------------------------
+Id: WC08
+Match: 8
+Pakistan vs Australia
+Date: Sun Sep 04 2022 Slot: slot 2
+----------------------------------------------
+Id: WC09
+Match: 9
+India vs Australia
+Date: Sat Sep 10 2022 Slot: slot 1
+----------------------------------------------
+Id: WC10
+Match: 10
+Pakistan vs Bangladesh
+Date: Sat Sep 10 2022 Slot: slot 2
+----------------------------------------------
+Result of Matches
+----------------------------------------------
+Bangladesh won by 143 runs
+Pakistan won by 4 wickets
+India won by 3 wickets
+Australia won by 4 wickets
+India won by 199 runs
+Bangladesh won by 186 runs
+India won by 160 runs
+Australia won by 10 wickets
+Australia won by 198 runs
+Pakistan won by 1 wickets
+
+Points Table
+--------------------------------------------
+India 6 points
+Australia 6 points
+England 0 points
+Pakistan 4 points
+Bangladesh 4 points
+
+Output for 7 teams:
+
+World Cup Tournament Schedule
+----------------------------------------------
+Id: WC01
+Match: 1
+Australia vs South Africa
+Date: Sat Aug 27 2022 Slot: slot 1
+----------------------------------------------
+Id: WC02
+Match: 2
+England vs New Zealand
+Date: Sat Aug 27 2022 Slot: slot 2
+----------------------------------------------
+Id: WC03
+Match: 3
+Pakistan vs Bangladesh
+Date: Sun Aug 28 2022 Slot: slot 1
+----------------------------------------------
+Id: WC04
+Match: 4
+India vs South Africa
+Date: Sun Aug 28 2022 Slot: slot 2
+----------------------------------------------
+Id: WC05
+Match: 5
+Australia vs Bangladesh
+Date: Sat Sep 03 2022 Slot: slot 1
+----------------------------------------------
+Id: WC06
+Match: 6
+England vs Pakistan
+Date: Sat Sep 03 2022 Slot: slot 2
+----------------------------------------------
+Id: WC07
+Match: 7
+India vs New Zealand
+Date: Sun Sep 04 2022 Slot: slot 1
+----------------------------------------------
+Id: WC08
+Match: 8
+South Africa vs Bangladesh
+Date: Sun Sep 04 2022 Slot: slot 2
+----------------------------------------------
+Id: WC09
+Match: 9
+Australia vs England
+Date: Sat Sep 10 2022 Slot: slot 1
+----------------------------------------------
+Id: WC10
+Match: 10
+India vs Bangladesh
+Date: Sat Sep 10 2022 Slot: slot 2
+----------------------------------------------
+Id: WC11
+Match: 11
+New Zealand vs Pakistan
+Date: Sun Sep 11 2022 Slot: slot 1
+----------------------------------------------
+Id: WC12
+Match: 12
+South Africa vs England
+Date: Sun Sep 11 2022 Slot: slot 2
+----------------------------------------------
+Id: WC13
+Match: 13
+India vs Pakistan
+Date: Sat Sep 17 2022 Slot: slot 1
+----------------------------------------------
+Id: WC14
+Match: 14
+Bangladesh vs England
+Date: Sat Sep 17 2022 Slot: slot 2
+----------------------------------------------
+Id: WC15
+Match: 15
+New Zealand vs Australia
+Date: Sun Sep 18 2022 Slot: slot 1
+----------------------------------------------
+Id: WC16
+Match: 16
+India vs England
+Date: Sun Sep 18 2022 Slot: slot 2
+----------------------------------------------
+Id: WC17
+Match: 17
+Pakistan vs Australia
+Date: Sat Sep 24 2022 Slot: slot 1
+----------------------------------------------
+Id: WC18
+Match: 18
+New Zealand vs South Africa
+Date: Sat Sep 24 2022 Slot: slot 2
+----------------------------------------------
+Id: WC19
+Match: 19
+India vs Australia
+Date: Sun Sep 25 2022 Slot: slot 1
+----------------------------------------------
+Id: WC20
+Match: 20
+Pakistan vs South Africa
+Date: Sun Sep 25 2022 Slot: slot 2
+----------------------------------------------
+Id: WC21
+Match: 21
+Bangladesh vs New Zealand
+Date: Sat Oct 01 2022 Slot: slot 1
+----------------------------------------------
+Result of Matches
+----------------------------------------------
+South Africa won by 4 wickets
+New Zealand won by 161 runs
+Pakistan won by 120 runs
+South Africa won by 174 runs
+Australia won by 8 wickets
+England won by 96 runs
+New Zealand won by 8 wickets
+South Africa won by 180 runs
+England won by 9 wickets
+Bangladesh won by 3 wickets
+Pakistan won by 209 runs
+South Africa won by 1 wickets
+Pakistan won by 238 runs
+Bangladesh won by 57 runs
+New Zealand won by 215 runs
+England won by 209 runs
+Pakistan won by 10 wickets
+New Zealand won by 8 wickets
+India won by 6 wickets
+Pakistan won by 20 runs
+New Zealand won by 12 runs
+
+Points Table
+--------------------------------------------
+India 2 points
+Australia 2 points
+England 6 points
+Pakistan 10 points
+Bangladesh 4 points
+New Zealand 10 points
+South Africa 8 points

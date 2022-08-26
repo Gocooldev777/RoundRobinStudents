@@ -1,0 +1,202 @@
+NO.of Teams:4
+
+OUTPUT:
+ 
+
+[LOG]: "Number of Matches :",  6 
+[LOG]: ["CSK vs RR", "RCB vs MI", "CSK vs MI", "RR vs RCB", "CSK vs RCB", "MI vs RR"] 
+[LOG]: [{
+  "Date": "Aug 27 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 1,
+  "Morning_Batch": "CSK vs RR",
+  "Slot_No": 2,
+  "match_No": 2,
+  "Evening_Batch": "RCB vs MI"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 3,
+  "Morning_Batch": "CSK vs MI",
+  "Slot_No": 2,
+  "match_No": 4,
+  "Evening_Batch": "RR vs RCB"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 5,
+  "Morning_Batch": "CSK vs RCB",
+  "Slot_No": 2,
+  "match_No": 6,
+  "Evening_Batch": "MI vs RR"
+}] 
+
+
+
+
+
+
+
+
+
+
+
+NO.of Teams:5
+
+Output :
+
+
+
+[LOG]: "Number of Matches :",  10 
+[LOG]: ["RCB vs DD", "MI vs RR", "CSK vs DD", "RCB vs MI", "CSK vs RR", "DD vs MI", "CSK vs MI", "RR vs RCB", "CSK vs RCB", "RR vs DD"] 
+[LOG]: [{
+  "Date": "Aug 27 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 1,
+  "Morning_Batch": "RCB vs DD",
+  "Slot_No": 2,
+  "match_No": 2,
+  "Evening_Batch": "MI vs RR"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 3,
+  "Morning_Batch": "CSK vs DD",
+  "Slot_No": 2,
+  "match_No": 4,
+  "Evening_Batch": "RCB vs MI"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 5,
+  "Morning_Batch": "CSK vs RR",
+  "Slot_No": 2,
+  "match_No": 6,
+  "Evening_Batch": "DD vs MI"
+}, {
+  "Date": "Sep 04 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 7,
+  "Morning_Batch": "CSK vs MI",
+  "Slot_No": 2,
+  "match_No": 8,
+  "Evening_Batch": "RR vs RCB"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 9,
+  "Morning_Batch": "CSK vs RCB",
+  "Slot_No": 2,
+  "match_No": 10,
+  "Evening_Batch": "RR vs DD"
+}] 
+
+
+
+
+NO.of Teams:7 
+
+OUTPUT :
+
+
+"Number of Matches :",  21 
+[LOG]: ["RCB vs KKR", "MI vs SRH", "RR vs DD", "CSK vs KKR", "RCB vs DD", "MI vs RR", "CSK vs SRH", "KKR vs DD", "RCB vs MI", "CSK vs DD", "SRH vs RR", "KKR vs MI", "CSK vs RR", "DD vs MI", "SRH vs RCB", "CSK vs MI", "RR vs RCB", "SRH vs KKR", "CSK vs RCB", "RR vs KKR", "DD vs SRH"] 
+[LOG]: [{
+  "Date": "Aug 27 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 1,
+  "Morning_Batch": "RCB vs KKR",
+  "Slot_No": 2,
+  "match_No": 2,
+  "Evening_Batch": "MI vs SRH"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 3,
+  "Morning_Batch": "RR vs DD",
+  "Slot_No": 2,
+  "match_No": 4,
+  "Evening_Batch": "CSK vs KKR"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 5,
+  "Morning_Batch": "RCB vs DD",
+  "Slot_No": 2,
+  "match_No": 6,
+  "Evening_Batch": "MI vs RR"
+}, {
+  "Date": "Sep 04 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 7,
+  "Morning_Batch": "CSK vs SRH",
+  "Slot_No": 2,
+  "match_No": 8,
+  "Evening_Batch": "KKR vs DD"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 9,
+  "Morning_Batch": "RCB vs MI",
+  "Slot_No": 2,
+  "match_No": 10,
+  "Evening_Batch": "CSK vs DD"
+}, {
+  "Date": "Sep 11 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 11,
+  "Morning_Batch": "SRH vs RR",
+  "Slot_No": 2,
+  "match_No": 12,
+  "Evening_Batch": "KKR vs MI"
+}, {
+  "Date": "Sep 17 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 13,
+  "Morning_Batch": "CSK vs RR",
+  "Slot_No": 2,
+  "match_No": 14,
+  "Evening_Batch": "DD vs MI"
+}, {
+  "Date": "Sep 18 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 15,
+  "Morning_Batch": "SRH vs RCB",
+  "Slot_No": 2,
+  "match_No": 16,
+  "Evening_Batch": "CSK vs MI"
+}, {
+  "Date": "Sep 24 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 17,
+  "Morning_Batch": "RR vs RCB",
+  "Slot_No": 2,
+  "match_No": 18,
+  "Evening_Batch": "SRH vs KKR"
+}, {
+  "Date": "Sep 25 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 19,
+  "Morning_Batch": "CSK vs RCB",
+  "Slot_No": 2,
+  "match_No": 20,
+  "Evening_Batch": "RR vs KKR"
+}]

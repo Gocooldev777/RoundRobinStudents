@@ -1,0 +1,183 @@
+4 TEAMS ...SCHEDULE..
+
+[LOG]: "DAY:",  1,  "DATE>>",  "Sat Aug 27 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  1 
+[LOG]: ["TEAM1 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  2 
+[LOG]: ["TEAM2 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "DELHI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  2,  "DATE>>",  "Sun Aug 28 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  3 
+[LOG]: ["TEAM1 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  4 
+[LOG]: ["TEAM4 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  3,  "DATE>>",  "Sat Sep 03 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  5 
+[LOG]: ["TEAM1 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  6 
+[LOG]: ["TEAM3 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "BANGALORE" 
+[LOG]: "______________________________________" 
+[LOG]: "Total Number of Matches",  6 
+
+
+5 TEAMS ...SCHEDULE..
+
+[LOG]: "DAY:",  1,  "DATE>>",  "Sat Aug 27 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  1 
+[LOG]: ["TEAM2 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  2 
+[LOG]: ["TEAM3 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  2,  "DATE>>",  "Sun Aug 28 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  3 
+[LOG]: ["TEAM1 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "KOLKATA" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  4 
+[LOG]: ["TEAM2 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  3,  "DATE>>",  "Sat Sep 03 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  5 
+[LOG]: ["TEAM1 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "KOLKATA" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  6 
+[LOG]: ["TEAM5 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "HYDERABAD" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  4,  "DATE>>",  "Sun Sep 04 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  7 
+[LOG]: ["TEAM1 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "KOLKATA" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  8 
+[LOG]: ["TEAM4 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  5,  "DATE>>",  "Sat Sep 10 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  9 
+[LOG]: ["TEAM1 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  10 
+[LOG]: ["TEAM4 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "DELHI" 
+[LOG]: "______________________________________" 
+[LOG]: "Total Number of Matches",  10 
+
+
+7 TEAMS ...SCHEDULE..
+[LOG]: "DAY:",  1,  "DATE>>",  "Sat Aug 27 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  1 
+[LOG]: ["TEAM2 vs TEAM7"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  2 
+[LOG]: ["TEAM3 vs TEAM6"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "BANGALORE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  2,  "DATE>>",  "Sun Aug 28 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  3 
+[LOG]: ["TEAM4 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "KOLKATA" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  4 
+[LOG]: ["TEAM1 vs TEAM7"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "BANGALORE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  3,  "DATE>>",  "Sat Sep 03 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  5 
+[LOG]: ["TEAM2 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "MUMBAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  6 
+[LOG]: ["TEAM3 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  4,  "DATE>>",  "Sun Sep 04 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  7 
+[LOG]: ["TEAM1 vs TEAM6"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "DELHI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  8 
+[LOG]: ["TEAM7 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  5,  "DATE>>",  "Sat Sep 10 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  9 
+[LOG]: ["TEAM2 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "DELHI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  10 
+[LOG]: ["TEAM1 vs TEAM5"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "DELHI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  6,  "DATE>>",  "Sun Sep 11 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  11 
+[LOG]: ["TEAM6 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  12 
+[LOG]: ["TEAM7 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "BANGALORE" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  7,  "DATE>>",  "Sat Sep 17 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  13 
+[LOG]: ["TEAM1 vs TEAM4"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "PUNE" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  14 
+[LOG]: ["TEAM5 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  8,  "DATE>>",  "Sun Sep 18 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  15 
+[LOG]: ["TEAM6 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  16 
+[LOG]: ["TEAM1 vs TEAM3"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "HYDERABAD" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  9,  "DATE>>",  "Sat Sep 24 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  17 
+[LOG]: ["TEAM4 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "MUMBAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  18 
+[LOG]: ["TEAM6 vs TEAM7"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "MUMBAI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  10,  "DATE>>",  "Sun Sep 25 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  19 
+[LOG]: ["TEAM1 vs TEAM2"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "BANGALORE" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  20 
+[LOG]: ["TEAM4 vs TEAM7"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "MUMBAI" 
+[LOG]: "______________________________________" 
+[LOG]: "DAY:",  11,  "DATE>>",  "Sat Oct 01 2022" 
+[LOG]: "______________________________________" 
+[LOG]: "SLOT-1",  " MATCH-NO>>",  21 
+[LOG]: ["TEAM5 vs TEAM6"] 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "CHENNAI" 
+[LOG]: "SLOT-2",  " MATCH-NO>>",  22 
+[LOG]: "NO-MATCH" 
+[LOG]: ">>>>>>>>>>>>>>>>>>>VENUE-:",  "MUMBAI" 
+[LOG]: "______________________________________" 
+[LOG]: "Total Number of Matches",  21

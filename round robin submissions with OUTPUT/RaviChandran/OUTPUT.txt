@@ -1,0 +1,206 @@
+team 4 
+[LOG]: "DAY:1 DATE:- Sat Aug 27 2022" 
+[LOG]: "MATCH NO:- 1 **SLOT-1**" 
+[LOG]: ["TEAM4", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 2 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM2"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:2 DATE:- Sun Aug 28 2022" 
+[LOG]: "MATCH NO:- 3 **SLOT-1**" 
+[LOG]: ["TEAM3", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 4 **SLOT-2**" 
+[LOG]: ["TEAM2", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:3 DATE:- Sat Sep 03 2022" 
+[LOG]: "MATCH NO:- 5 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 6 **SLOT-2**" 
+[LOG]: ["TEAM4", "vs", "TEAM3"] 
+[LOG]: "---------------------------" 
+[LOG]: "Total Number of Matches",  6 
+[LOG]: "TEAMS points " 
+[LOG]: "TEAM1 2" 
+[LOG]: "TEAM2 4" 
+[LOG]: "TEAM3 0" 
+[LOG]: "TEAM4 6"
+
+team 5
+
+[LOG]: "DAY:1 DATE:- Sat Aug 27 2022" 
+[LOG]: "MATCH NO:- 1 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM2"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 2 **SLOT-2**" 
+[LOG]: ["TEAM4", "vs", "TEAM3"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:2 DATE:- Sun Aug 28 2022" 
+[LOG]: "MATCH NO:- 3 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 4 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM2"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:3 DATE:- Sat Sep 03 2022" 
+[LOG]: "MATCH NO:- 5 **SLOT-1**" 
+[LOG]: ["TEAM4", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 6 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM5"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:4 DATE:- Sun Sep 04 2022" 
+[LOG]: "MATCH NO:- 7 **SLOT-1**" 
+[LOG]: ["TEAM3", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 8 **SLOT-2**" 
+[LOG]: ["TEAM2", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:5 DATE:- Sat Sep 10 2022" 
+[LOG]: "MATCH NO:- 9 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 10 **SLOT-2**" 
+[LOG]: ["TEAM5", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "Total Number of Matches",  10 
+[LOG]: "TEAMS points " 
+[LOG]: "TEAM1 6" 
+[LOG]: "TEAM2 4" 
+[LOG]: "TEAM3 2" 
+[LOG]: "TEAM4 2" 
+[LOG]: "TEAM5 6"
+
+team7
+
+[LOG]: "DAY:1 DATE:- Sat Aug 27 2022" 
+[LOG]: "MATCH NO:- 1 **SLOT-1**" 
+[LOG]: ["TEAM7", "vs", "TEAM2"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 2 **SLOT-2**" 
+[LOG]: ["TEAM6", "vs", "TEAM3"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:2 DATE:- Sun Aug 28 2022" 
+[LOG]: "MATCH NO:- 3 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM4"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 4 **SLOT-2**" 
+[LOG]: ["TEAM7", "vs", "TEAM1"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:3 DATE:- Sat Sep 03 2022" 
+[LOG]: "MATCH NO:- 5 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM2"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 6 **SLOT-2**" 
+[LOG]: ["TEAM4", "vs", "TEAM3"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:4 DATE:- Sun Sep 04 2022" 
+[LOG]: "MATCH NO:- 7 **SLOT-1**" 
+[LOG]: ["TEAM6", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 8 **SLOT-2**" 
+[LOG]: ["TEAM5", "vs", "TEAM7"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:5 DATE:- Sat Sep 10 2022" 
+[LOG]: "MATCH NO:- 9 **SLOT-1**" 
+[LOG]: ["TEAM3", "vs", "TEAM2"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 10 **SLOT-2**" 
+[LOG]: ["TEAM5", "vs", "TEAM1"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:6 DATE:- Sun Sep 11 2022" 
+[LOG]: "MATCH NO:- 11 **SLOT-1**" 
+[LOG]: ["TEAM4", "vs", "TEAM6"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 12 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM7"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:7 DATE:- Sat Sep 17 2022" 
+[LOG]: "MATCH NO:- 13 **SLOT-1**" 
+[LOG]: ["TEAM4", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 14 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM5"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:8 DATE:- Sun Sep 18 2022" 
+[LOG]: "MATCH NO:- 15 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM6"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 16 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM1"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:9 DATE:- Sat Sep 24 2022" 
+[LOG]: "MATCH NO:- 17 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM4"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 18 **SLOT-2**" 
+[LOG]: ["TEAM7", "vs", "TEAM6"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:10 DATE:- Sun Sep 25 2022" 
+[LOG]: "MATCH NO:- 19 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 20 **SLOT-2**" 
+[LOG]: ["TEAM7", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:11 DATE:- Sat Oct 01 2022" 
+[LOG]: "MATCH NO:- 21 **SLOT-1**" 
+[LOG]: ["TEAM6", "vs", "TEAM5"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 22 **SLOT-2**" 
+[LOG]: undefined 
+[LOG]: "---------------------------" 
+[LOG]: "Total Number of Matches",  22 
+[LOG]: "TEAMS points " 
+[LOG]: "TEAM1 8" 
+[LOG]: "TEAM2 4" 
+[LOG]: "TEAM3 6" 
+[LOG]: "TEAM4 2" 
+[LOG]: "TEAM5 8" 
+[LOG]: "TEAM6 8" 
+[LOG]: "TEAM7 6"
+
+On Thu, 25 Aug 2022 at 12:21, V RAVICHANDRAN <tornadoravi1453@gmail.com> wrote:
+[LOG]: "DAY:1 DATE:- Sat Aug 27 2022" 
+[LOG]: "MATCH NO:- 1 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM2"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 2 **SLOT-2**" 
+[LOG]: ["TEAM4", "vs", "TEAM3"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:2 DATE:- Sun Aug 28 2022" 
+[LOG]: "MATCH NO:- 3 **SLOT-1**" 
+[LOG]: ["TEAM5", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 4 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM2"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:3 DATE:- Sat Sep 03 2022" 
+[LOG]: "MATCH NO:- 5 **SLOT-1**" 
+[LOG]: ["TEAM4", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 6 **SLOT-2**" 
+[LOG]: ["TEAM3", "vs", "TEAM5"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:4 DATE:- Sun Sep 04 2022" 
+[LOG]: "MATCH NO:- 7 **SLOT-1**" 
+[LOG]: ["TEAM3", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 8 **SLOT-2**" 
+[LOG]: ["TEAM2", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "DAY:5 DATE:- Sat Sep 10 2022" 
+[LOG]: "MATCH NO:- 9 **SLOT-1**" 
+[LOG]: ["TEAM2", "vs", "TEAM1"] 
+[LOG]: " " 
+[LOG]: "MATCH NO:- 10 **SLOT-2**" 
+[LOG]: ["TEAM5", "vs", "TEAM4"] 
+[LOG]: "---------------------------" 
+[LOG]: "Total Number of Matches",  10 
+[LOG]: "TEAMS points " 
+[LOG]: "TEAM1 4" 
+[LOG]: "TEAM2 2" 
+[LOG]: "TEAM3 6" 
+[LOG]: "TEAM4 4" 
+[LOG]: "TEAM5 4" 

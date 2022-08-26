@@ -1,0 +1,218 @@
+output in t.s for 4 Teams
+
+[LOG]: {
+"Date": "Aug 27 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 2,
+"Morning Batch": "Team-1 vs Team-4",
+"Slot No": 2,
+"Evening Batch": "Team-2 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Aug 28 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 4,
+"Morning Batch": "Team-1 vs Team-3",
+"Slot No": 2,
+"Evening Batch": "Team-4 vs Team-2"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 03 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 6,
+"Morning Batch": "Team-1 vs Team-2",
+"Slot No": 2,
+"Evening Batch": "Team-3 vs Team-4"
+} 
+[LOG]: "-----------------------------------" 
+
+On Thu, Aug 25, 2022 at 12:58 PM Suman Nayak <sumannayak947@gmail.com> wrote:
+output in t.s for 7 Teams
+[LOG]: {
+"Date": "Aug 27 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 2,
+"Morning Batch": "Team-2 vs Team-7",
+"Slot No": 2,
+"Evening Batch": "Team-3 vs Team-6"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Aug 28 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 4,
+"Morning Batch": "Team-4 vs Team-5",
+"Slot No": 2,
+"Evening Batch": "Team-1 vs Team-7"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 03 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 6,
+"Morning Batch": "Team-2 vs Team-5",
+"Slot No": 2,
+"Evening Batch": "Team-3 vs Team-4"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 04 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 8,
+"Morning Batch": "Team-1 vs Team-6",
+"Slot No": 2,
+"Evening Batch": "Team-7 vs Team-5"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 10 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 10,
+"Morning Batch": "Team-2 vs Team-3",
+"Slot No": 2,
+"Evening Batch": "Team-1 vs Team-5"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 11 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 12,
+"Morning Batch": "Team-6 vs Team-4",
+"Slot No": 2,
+"Evening Batch": "Team-7 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 17 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 14,
+"Morning Batch": "Team-1 vs Team-4",
+"Slot No": 2,
+"Evening Batch": "Team-5 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 18 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 16,
+"Morning Batch": "Team-6 vs Team-2",
+"Slot No": 2,
+"Evening Batch": "Team-1 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 24 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 18,
+"Morning Batch": "Team-4 vs Team-2",
+"Slot No": 2,
+"Evening Batch": "Team-6 vs Team-7"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 25 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 20,
+"Morning Batch": "Team-1 vs Team-2",
+"Slot No": 2,
+"Evening Batch": "Team-4 vs Team-7"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": undefined,
+"Day": undefined,
+"Slot no": 1,
+"Match No": 22,
+"Morning Batch": "Team-5 vs Team-6",
+"Slot No": 2,
+"Evening Batch": "Team-2 vs Team-7"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": undefined,
+"Day": undefined,
+"Slot no": 1,
+"Match No": 24,
+"Morning Batch": "Team-3 vs Team-6",
+"Slot No": 2,
+"Evening Batch": "Team-4 vs Team-5"
+} 
+[LOG]: "-----------------------------------" 
+
+On Thu, Aug 25, 2022 at 12:57 PM Suman Nayak <sumannayak947@gmail.com> wrote:
+output in t.s for 5 Teams
+[LOG]: {
+"Date": "Aug 27 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 2,
+"Morning Batch": "Team-2 vs Team-5",
+"Slot No": 2,
+"Evening Batch": "Team-3 vs Team-4"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Aug 28 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 4,
+"Morning Batch": "Team-1 vs Team-5",
+"Slot No": 2,
+"Evening Batch": "Team-2 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 03 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 6,
+"Morning Batch": "Team-1 vs Team-4",
+"Slot No": 2,
+"Evening Batch": "Team-5 vs Team-3"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 04 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 8,
+"Morning Batch": "Team-1 vs Team-3",
+"Slot No": 2,
+"Evening Batch": "Team-4 vs Team-2"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 10 2022",
+"Day": "Saturday",
+"Slot no": 1,
+"Match No": 10,
+"Morning Batch": "Team-1 vs Team-2",
+"Slot No": 2,
+"Evening Batch": "Team-4 vs Team-5"
+} 
+[LOG]: "-----------------------------------" 
+[LOG]: {
+"Date": "Sep 11 2022",
+"Day": "Sunday",
+"Slot no": 1,
+"Match No": 12,
+"Morning Batch": "Team-2 vs Team-5",
+"Slot No": 2,
+"Evening Batch": "Team-3 vs Team-4"
+} 
+[LOG]: "-----------------------------------" 

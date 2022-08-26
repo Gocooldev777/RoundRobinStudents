@@ -1,0 +1,165 @@
+Output for 5 Teams:
+[LOG]: "Teams:",  ["Team1", "Team2", "Team3", "Team4", "Team5"] 
+[LOG]: "--------------------" 
+[LOG]: "List of Matches:",  [["Team1", "Team2"], ["Team1", "Team3"], ["Team1", "Team4"], ["Team1", "Team5"], ["Team2", "Team3"], ["Team2", "Team4"], ["Team2", "Team5"], ["Team3", "Team4"], ["Team3", "Team5"], ["Team4", "Team5"]] 
+[LOG]: "No. of Matches:",  10 
+[LOG]: "--------------------" 
+[LOG]: "Finalized Schedule",  ["Team1vsTeam2", "Team3vsTeam4", "Team1vsTeam5", "Team2vsTeam3", "Team4vsTeam5", "Team1vsTeam3", "Team2vsTeam4", "Team3vsTeam5", "Team1vsTeam4", "Team2vsTeam5"] 
+[LOG]: "---------------------" 
+[LOG]: "Schedule:",  [{
+  "Date": "Aug 20 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 1,
+  "Morning_Batch": "Team1vsTeam2",
+  "Slot_No": 2,
+  "match_No": 2,
+  "Evening_Batch": "Team3vsTeam4"
+}, {
+  "Date": "Aug 21 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 3,
+  "Morning_Batch": "Team1vsTeam5",
+  "Slot_No": 2,
+  "match_No": 4,
+  "Evening_Batch": "Team2vsTeam3"
+}, {
+  "Date": "Aug 27 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 5,
+  "Morning_Batch": "Team4vsTeam5",
+  "Slot_No": 2,
+  "match_No": 6,
+  "Evening_Batch": "Team1vsTeam3"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 7,
+  "Morning_Batch": "Team2vsTeam4",
+  "Slot_No": 2,
+  "match_No": 8,
+  "Evening_Batch": "Team3vsTeam5"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 9,
+  "Morning_Batch": "Team1vsTeam4",
+  "Slot_No": 2,
+  "match_No": 10,
+  "Evening_Batch": "Team2vsTeam5"
+}]   
+
+Output for 7 Teams :
+
+[LOG]: "Teams:",  ["Team1", "Team2", "Team3", "Team4", "Team5", "Team6", "Team7"] 
+[LOG]: "--------------------" 
+[LOG]: "List of Matches:",  [["Team1", "Team2"], ["Team1", "Team3"], ["Team1", "Team4"], ["Team1", "Team5"], ["Team1", "Team6"], ["Team1", "Team7"], ["Team2", "Team3"], ["Team2", "Team4"], ["Team2", "Team5"], ["Team2", "Team6"], ["Team2", "Team7"], ["Team3", "Team4"], ["Team3", "Team5"], ["Team3", "Team6"], ["Team3", "Team7"], ["Team4", "Team5"], ["Team4", "Team6"], ["Team4", "Team7"], ["Team5", "Team6"], ["Team5", "Team7"], ["Team6", "Team7"]] 
+[LOG]: "No. of Matches:",  21 
+[LOG]: "--------------------" 
+[LOG]: "Shuffled:",  [["Team2", "Team5"], ["Team2", "Team4"], ["Team5", "Team6"], ["Team3", "Team4"], ["Team2", "Team3"], ["Team3", "Team5"], ["Team4", "Team6"], ["Team1", "Team7"], ["Team1", "Team6"], ["Team3", "Team6"], ["Team1", "Team5"], ["Team2", "Team7"], ["Team4", "Team5"], ["Team6", "Team7"], ["Team3", "Team7"], ["Team1", "Team4"], ["Team5", "Team7"], ["Team2", "Team6"], ["Team1", "Team3"], ["Team4", "Team7"], ["Team1", "Team2"]] 
+[LOG]: "Finalized Schedule",  ["Team2vsTeam5", "Team3vsTeam4", "Team1vsTeam7", "Team3vsTeam6", "Team1vsTeam5", "Team2vsTeam7", "Team4vsTeam5", "Team6vsTeam7", "Team1vsTeam4", "Team5vsTeam7", "Team2vsTeam6", "Team1vsTeam3", "Team4vsTeam7", "Team1vsTeam2", "Team5vsTeam6", "Team2vsTeam3", "Team4vsTeam6", "Team3vsTeam7", "Team2vsTeam4", "Team3vsTeam5", "Team1vsTeam6"] 
+[LOG]: "---------------------" 
+[LOG]: "Schedule:",  [{
+  "Date": "Aug 20 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 1,
+  "Morning_Batch": "Team2vsTeam5",
+  "Slot_No": 2,
+  "Match_No": 2,
+  "Evening_Batch": "Team3vsTeam4"
+}, {
+  "Date": "Aug 21 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 3,
+  "Morning_Batch": "Team1vsTeam7",
+  "Slot_No": 2,
+  "Match_No": 4,
+  "Evening_Batch": "Team3vsTeam6"
+}, {
+  "Date": "Aug 27 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 5,
+  "Morning_Batch": "Team1vsTeam5",
+  "Slot_No": 2,
+  "Match_No": 6,
+  "Evening_Batch": "Team2vsTeam7"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 7,
+  "Morning_Batch": "Team4vsTeam5",
+  "Slot_No": 2,
+  "Match_No": 8,
+  "Evening_Batch": "Team6vsTeam7"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 9,
+  "Morning_Batch": "Team1vsTeam4",
+  "Slot_No": 2,
+  "Match_No": 10,
+  "Evening_Batch": "Team5vsTeam7"
+}, {
+  "Date": "Sep 04 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 11,
+  "Morning_Batch": "Team2vsTeam6",
+  "Slot_No": 2,
+  "Match_No": 12,
+  "Evening_Batch": "Team1vsTeam3"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 13,
+  "Morning_Batch": "Team4vsTeam7",
+  "Slot_No": 2,
+  "Match_No": 14,
+  "Evening_Batch": "Team1vsTeam2"
+}, {
+  "Date": "Sep 11 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 15,
+  "Morning_Batch": "Team5vsTeam6",
+  "Slot_No": 2,
+  "match_No": 16,
+  "Evening_Batch": "Team2vsTeam3"
+}, {
+  "Date": "Sep 17 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 17,
+  "Morning_Batch": "Team4vsTeam6",
+  "Slot_No": 2,
+  "Match_No": 18,
+  "Evening_Batch": "Team3vsTeam7"
+}, {
+  "Date": "Sep 18 2022",
+  "Day": "Sunday",
+  "Slot_no": 1,
+  "Match_No": 19,
+  "Morning_Batch": "Team2vsTeam4",
+  "Slot_No": 2,
+  "Match_No": 20,
+  "Evening_Batch": "Team3vsTeam5"
+}, {
+  "Date": "Sep 24 2022",
+  "Day": "Saturday",
+  "Slot_no": 1,
+  "Match_No": 21,
+  "Morning_Batch": "Team1vsTeam6",
+  "Slot_No": 2,
+  "Match_No": 22,
+  "Evening_Batch": undefined
+}] 

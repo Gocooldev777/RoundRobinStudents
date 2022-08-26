@@ -1,0 +1,152 @@
+//This is 5 teams output//
+[LOG]: "number of matches:",  10 
+[LOG]: ["India", "Australia", "Pakistan", "England", "srilanka", "duplicate"] 
+[LOG]: ["Aug 20 2022", "Aug 21 2022", "Aug 27 2022", "Aug 28 2022", "Sep 03 2022", "Sep 04 2022"] 
+[LOG]: ["saturday", "sunday", "saturday", "sunday", "saturday", "sunday"] 
+[LOG]: [{
+  "Date": "Aug 20 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 2,
+  "morning_Batch": "Australia  vs srilanka",
+  "slot_No": 2,
+  "evening_Batch": "Pakistan  vs England"
+}, {
+  "Date": "Aug 21 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 4,
+  "morning_Batch": "India  vs srilanka",
+  "slot_No": 2,
+  "evening_Batch": "Australia  vs Pakistan"
+}, {
+  "Date": "Aug 27 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 6,
+  "morning_Batch": "India  vs England",
+  "slot_No": 2,
+  "evening_Batch": "srilanka  vs Pakistan"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 8,
+  "morning_Batch": "India  vs Pakistan",
+  "slot_No": 2,
+  "evening_Batch": "England  vs Australia"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 10,
+  "morning_Batch": "India  vs Australia",
+  "slot_No": 2,
+  "evening_Batch": "England  vs srilanka"
+}] 
+
+
+
+
+//THIS IS 6 TEAMS OUTPUT//
+
+[LOG]: "number of matches:",  15 
+[LOG]: ["India", "Australia", "Pakistan", "England", "srilanka", "westIndies"] 
+[LOG]: ["Aug 20 2022", "Aug 21 2022", "Aug 27 2022", "Aug 28 2022", "Sep 03 2022", "Sep 04 2022", "Sep 10 2022", "Sep 11 2022", "Sep 17 2022", "Sep 18 2022"] 
+[LOG]: ["saturday", "sunday", "saturday", "sunday", "saturday", "sunday", "saturday", "sunday", "saturday", "sunday"] 
+[LOG]: [{
+  "Date": "Aug 20 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 2,
+  "morning_Batch": "India  vs westIndies",
+  "slot_No": 2,
+  "evening_Batch": "Australia  vs srilanka"
+}, {
+  "Date": "Aug 21 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 4,
+  "morning_Batch": "Pakistan  vs England",
+  "slot_No": 2,
+  "evening_Batch": "India  vs srilanka"
+}, {
+  "Date": "Aug 27 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 6,
+  "morning_Batch": "westIndies  vs England",
+  "slot_No": 2,
+  "evening_Batch": "Australia  vs Pakistan"
+}, {
+  "Date": "Aug 28 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 8,
+  "morning_Batch": "India  vs England",
+  "slot_No": 2,
+  "evening_Batch": "srilanka  vs Pakistan"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 10,
+  "morning_Batch": "westIndies  vs Australia",
+  "slot_No": 2,
+  "evening_Batch": "India  vs Pakistan"
+}, {
+  "Date": "Sep 04 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 12,
+  "morning_Batch": "England  vs Australia",
+  "slot_No": 2,
+  "evening_Batch": "srilanka  vs westIndies"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 14,
+  "morning_Batch": "India  vs Australia",
+  "slot_No": 2,
+  "evening_Batch": "Pakistan  vs westIndies"
+}, {
+  "Date": "Sep 11 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 15,
+  "morning_Batch": "England  vs srilanka"
+}] 
+
+
+//THIS IS 7 TEAMS OUTPUT
+
+
+
+[LOG]: "number of matches:",  21 
+[LOG]: ["India", "Australia", "Pakistan", "England", "srilanka", "westIndies", "south Africa", "duplicate"] 
+[LOG]: ["Aug 20 2022", "Aug 21 2022", "Aug 27 2022", "Aug 28 2022", "Sep 03 2022", "Sep 04 2022", "Sep 10 2022", "Sep 11 2022", "Sep 17 2022", "Sep 18 2022", "Sep 24 2022", "Sep 25 2022"] 
+[LOG]: ["saturday", "sunday", "saturday", "sunday", "saturday", "sunday", "saturday", "sunday", "saturday", "sunday", "saturday", "sunday"] 
+[LOG]: [{
+  "Date": "Aug 20 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 2,
+  "morning_Batch": "Australia  vs south Africa",
+  "slot_No": 2,
+  "evening_Batch": "Pakistan  vs westIndies"
+}, {
+  "Date": "Aug 21 2022",
+  "Day": "sunday",
+  "slot_no": 1,
+  "match_No": 4,
+  "morning_Batch": "England  vs srilanka",
+  "slot_No": 2,
+  "evening_Batch": "India  vs south Africa"
+}, {
+  "Date": "Aug 27 2022",
+  "Day": "saturday",
+  "slot_no": 1,
+  "match_No": 6,
+  "morning_Batch": "Australia  vs srilanka",
+  "slot_No": 2,

@@ -1,0 +1,113 @@
+TypeScript Outputs for 4,5 and 7 teams
+
+----------------------------------------------------------------------------------------------------------------No. of teams:-  4---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[LOG]: "Day:",  1,  "Date:",  "Sat Aug 27 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  1 
+[LOG]: ["team4-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  2 
+[LOG]: ["team3-team2"] 
+[LOG]: "Day:",  2,  "Date:",  "Sun Aug 28 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  3 
+[LOG]: ["team3-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  4 
+[LOG]: ["team2-team4"] 
+[LOG]: "Day:",  3,  "Date:",  "Sat Sep 03 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  5 
+[LOG]: ["team2-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  6 
+[LOG]: ["team4-team3"] 
+[LOG]: "Total Number of Matches",  6 
+
+
+----------------------------------------------------------------------------------------------------------------No. of teams:-  5---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[LOG]: "Day:",  1,  "Date:",  "Sat Aug 27 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  1 
+[LOG]: ["team5-team2"] 
+[LOG]: "slot-2 ",  "Match-No:",  2 
+[LOG]: ["team4-team3"] 
+[LOG]: "Day:",  2,  "Date:",  "Sun Aug 28 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  3 
+[LOG]: ["team5-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  4 
+[LOG]: ["team3-team2"] 
+[LOG]: "Day:",  3,  "Date:",  "Sat Sep 03 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  5 
+[LOG]: ["team4-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  6 
+[LOG]: ["team3-team5"] 
+[LOG]: "Day:",  4,  "Date:",  "Sun Sep 04 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  7 
+[LOG]: ["team3-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  8 
+[LOG]: ["team2-team4"] 
+[LOG]: "Day:",  5,  "Date:",  "Sat Sep 10 2022" 
+[LOG]: "slot-1 ",  "Match-No:",  9 
+[LOG]: ["team2-team1"] 
+[LOG]: "slot-2 ",  "Match-No:",  10 
+[LOG]: ["team5-team4"] 
+[LOG]: "Total Number of Matches",  10 
+
+
+----------------------------------------------------------------------------------------------------------------No. of teams:-  7---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[LOG]: "Day:",  1,  "Date:",  "Sat Aug 27 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  1 
+[LOG]: ["team7-team2"] 
+[LOG]: "Slot-2 ",  "Match-No:",  2 
+[LOG]: ["team6-team3"] 
+[LOG]: "Day:",  2,  "Date:",  "Sun Aug 28 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  3 
+[LOG]: ["team5-team4"] 
+[LOG]: "Slot-2 ",  "Match-No:",  4 
+[LOG]: ["team7-team1"] 
+[LOG]: "Day:",  3,  "Date:",  "Sat Sep 03 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  5 
+[LOG]: ["team5-team2"] 
+[LOG]: "Slot-2 ",  "Match-No:",  6 
+[LOG]: ["team4-team3"] 
+[LOG]: "Day:",  4,  "Date:",  "Sun Sep 04 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  7 
+[LOG]: ["team6-team1"] 
+[LOG]: "Slot-2 ",  "Match-No:",  8 
+[LOG]: ["team5-team7"] 
+[LOG]: "Day:",  5,  "Date:",  "Sat Sep 10 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  9 
+[LOG]: ["team3-team2"] 
+[LOG]: "Slot-2 ",  "Match-No:",  10 
+[LOG]: ["team5-team1"] 
+[LOG]: "Day:",  6,  "Date:",  "Sun Sep 11 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  11 
+[LOG]: ["team4-team6"] 
+[LOG]: "Slot-2 ",  "Match-No:",  12 
+[LOG]: ["team3-team7"] 
+[LOG]: "Day:",  7,  "Date:",  "Sat Sep 17 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  13 
+[LOG]: ["team4-team1"] 
+[LOG]: "Slot-2 ",  "Match-No:",  14 
+[LOG]: ["team3-team5"] 
+[LOG]: "Day:",  8,  "Date:",  "Sun Sep 18 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  15 
+[LOG]: ["team2-team6"] 
+[LOG]: "Slot-2 ",  "Match-No:",  16 
+[LOG]: ["team3-team1"] 
+[LOG]: "Day:",  9,  "Date:",  "Sat Sep 24 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  17 
+[LOG]: ["team2-team4"] 
+[LOG]: "Slot-2 ",  "Match-No:",  18 
+[LOG]: ["team7-team6"] 
+[LOG]: "Day:",  10,  "Date:",  "Sun Sep 25 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  19 
+[LOG]: ["team2-team1"] 
+[LOG]: "Slot-2 ",  "Match-No:",  20 
+[LOG]: ["team7-team4"] 
+[LOG]: "Day:",  11,  "Date:",  "Sat Oct 01 2022" 
+[LOG]: "Slot-1 ",  "Match-No:",  21 
+[LOG]: ["team6-team5"] 
+[LOG]: "Slot-2 ",  "Match-No:",  22 
+[LOG]: "NO-MATCH" 
+[LOG]: "Total Number of Matches",  21 

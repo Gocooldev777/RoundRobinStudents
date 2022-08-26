@@ -1,0 +1,31 @@
+[LOG]: "**Number of Matches** :",  6 
+[LOG]: ["Aug 27 2022", "Aug 28 2022", "Sep 03 2022", "Sep 04 2022", "Sep 10 2022", "Sep 11 2022", "Sep 17 2022", "Sep 18 2022", "Sep 24 2022", "Sep 25 2022"] 
+[LOG]: ["***Saturday***", "***Sunday***", "***Saturday***", "***Sunday***", "***Saturday***", "***Sunday***", "***Saturday***", "***Sunday***", "***Saturday***", "***Sunday***"] 
+[LOG]: [{
+  "<<Date>>": "Aug 27 2022",
+  "<<Day>>": "***Saturday***",
+  "Slot**no": 1,
+  "Match***No": 1,
+  "Morning***Batch": "team1 vs team4",
+  "Slot**No": 2,
+  "match***No": 2,
+  "Evening***Batch": "team2 vs team3"
+}, {
+  "<<Date>>": "Aug 28 2022",
+  "<<Day>>": "***Sunday***",
+  "Slot**no": 1,
+  "Match***No": 3,
+  "Morning***Batch": "team1 vs team3",
+  "Slot**No": 2,
+  "match***No": 4,
+  "Evening***Batch": "team4 vs team2"
+}, {
+  "<<Date>>": "Sep 03 2022",
+  "<<Day>>": "***Saturday***",
+  "Slot**no": 1,
+  "Match***No": 5,
+  "Morning***Batch": "team1 vs team2",
+  "Slot**No": 2,
+  "match***No": 6,
+  "Evening***Batch": "team3 vs team4"
+}] 

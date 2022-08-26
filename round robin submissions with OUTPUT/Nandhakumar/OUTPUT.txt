@@ -1,0 +1,143 @@
+OUTPUT OF TYPESCRIPT
+
+OUTPUT FOR FOUR TEAMS  
+
+[LOG]: [{
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 6,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Kolkata VS Bangalore"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 6,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Kolkata VS Bangalore"
+}, {
+  "Date": "Sep 03 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 6,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Kolkata VS Bangalore"
+}] 
+
+OUTPUT FOR FIVE TEAMS
+[LOG]: [{
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 10,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Bangalore VS Hyderabad"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 10,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Bangalore VS Hyderabad"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 10,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Bangalore VS Hyderabad"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 10,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Bangalore VS Hyderabad"
+}, {
+  "Date": "Sep 10 2022",
+  "Day": "Saturday",
+  "Slot": 2,
+  "Match": 10,
+  "Batch-1": "Mumbai VS Chennai",
+  "Batch-2": "Bangalore VS Hyderabad"
+}] 
+
+[LOG]: [{
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}, {
+  "Date": "Sat Oct 01 2022",
+  "Day": "Saturday",
+  "Slot": 1,
+  "Match": 21,
+  "Batch-1": "Hyderabad VS Pune",
+  "Batch-2": "Bangalore VS Delhi"
+}] 
